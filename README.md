@@ -1,2 +1,3 @@
 # Aur-bolo
-Communication Service
+Lightweight communication service.
+
